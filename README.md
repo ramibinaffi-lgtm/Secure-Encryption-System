@@ -185,6 +185,6 @@ No permission is granted to copy, modify, redistribute, publish, or use this pro
 
 For licensing inquiries, collaboration, or permission to use any part of this project, please contact the author.
 
-Author: Rami
+Author: Abo-affi
 Project: Secure Encryption
 Year: 2026
