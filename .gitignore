@@ -1,0 +1,93 @@
+# ==============================
+# Python Cache Files
+# ==============================
+pycache/
+*.py[cod]
+*$py.class
+*.so
+
+# ==============================
+# Virtual Environments
+# ==============================
+.venv/
+venv/
+env/
+ENV/
+venv312/
+
+# ==============================
+# Python Build & Distribution
+# ==============================
+build/
+dist/
+*.egg-info/
+.eggs/
+wheels/
+pip-wheel-metadata/
+
+# ==============================
+# Kivy & Buildozer
+# ==============================
+.buildozer/
+bin/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# ==============================
+# IDEs & Editors
+# ==============================
+.idea/
+.vscode/
+*.iml
+
+# ==============================
+# Operating System Files
+# ==============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Logs & Temporary Files
+# ==============================
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ==============================
+# Environment & Secrets
+# ==============================
+.env
+.env.*
+!.env.example
+secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# ==============================
+# Test & Coverage Files
+# ==============================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# ==============================
+# Jupyter
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# Local Configuration
+# ==============================
+local_settings.py
